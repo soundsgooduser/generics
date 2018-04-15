@@ -1,0 +1,1 @@
+At runtime the information about types is erased however it can be accessed using reflection
